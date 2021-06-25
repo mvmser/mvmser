@@ -1,4 +1,16 @@
-### Hi there 👋
+## Hi 👋
+
+Currently: MSc Data Science & Computational Intelligence Student at Coventry University.  
+Previously: Business Intelligence Student at Efrei Paris.  
+
+## 💡 I’m currently learning
+
+➼ Artificial Neural Network.  
+➼ Information Retrieval.  
+
+## 🔭 I’m currently working on
+
+➼ Dissertation : Unsupervised Learning for Farm Segmentation.  
 
 <!--
 **mvmser/mvmser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
