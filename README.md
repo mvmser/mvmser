@@ -1,3 +1,6 @@
+![me](https://user-images.githubusercontent.com/32732921/124126240-62952300-da72-11eb-8b3d-a72da2469923.gif)
+
+
 ## Hi 👋
 
 Currently: MSc Data Science & Computational Intelligence Student at Coventry University.  
