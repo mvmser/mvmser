@@ -6,6 +6,8 @@
 Currently: MSc Data Science & Computational Intelligence Student at Coventry University.  
 Previously: Business Intelligence Student at Efrei Paris.  
 
+<a href="https://gist.github.com/mvmser" target="_blank"><img width="120" alt="portfolio_view" src="https://user-images.githubusercontent.com/32732921/124402142-7d93bb80-dd2e-11eb-9386-211194eb19f3.png"></a>
+
 ## 💡 I’m currently learning
 
 ➼ Artificial Neural Network.  
