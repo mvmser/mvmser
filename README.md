@@ -3,7 +3,7 @@
 
 ## Hi 👋
 
-Previously: MSc Data Science & Computational Intelligence Student (UK) 1 Master in Business Intelligence qnd Analytics (FR)
+Previously: MSc Data Science & Computational Intelligence Student (UK) & Master in Business Intelligence and Analytics (FR)
 
 Currently: Data Scientist in a leading global professional services firm
 
