@@ -3,31 +3,22 @@
 
 ## Hi 👋
 
-Currently: MSc Data Science & Computational Intelligence Student at Coventry University.  
-Previously: Business Intelligence Student at Efrei Paris.  
+Previously: MSc Data Science & Computational Intelligence Student (UK) 1 Master in Business Intelligence qnd Analytics (FR)
+Currently: Data Scientist in a leading global professional services firm
 
 <a href="https://gist.github.com/mvmser" target="_blank"><img width="120" alt="portfolio_view" src="https://user-images.githubusercontent.com/32732921/124402142-7d93bb80-dd2e-11eb-9386-211194eb19f3.png"></a>
 
-## 💡 I’m currently learning
+## 💡 I recentrly learnt
 
-➼ Artificial Neural Network.  
-➼ Information Retrieval.  
+➼ Amazon Web Services - Machine Learning & Cloud Architect (certified x2)
+
+## 🌱 I’m currently learning
+
+➼ Amazon Web Services - Deployment Pipeline
+
 
 ## 🔭 I’m currently working on
 
-➼ Dissertation : Unsupervised Learning for Farm Segmentation.  
+➼ Computer vision for automotive insurance & some POCs   
 
-<!--
-**mvmser/mvmser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
