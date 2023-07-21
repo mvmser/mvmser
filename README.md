@@ -19,4 +19,5 @@ Currently: Data Scientist in a leading global professional services firm
 ## 🔭 I’m currently working on
 
 ➼ Computer vision for automotive insurance & exploring proof-of-concepts (POCs).
+
 ➼ Cloud & Data Engineering for a robust SaaS platform, focused on data storage, quality control, and data management.
