@@ -7,7 +7,7 @@ Previously: MSc Data Science & Computational Intelligence Student (UK) & Master 
 
 Currently: Data Scientist in a leading global professional services firm
 
-## 💡 I recentrly learnt
+## 💡 I recently learnt
 
 ➼ Amazon Web Services - Machine Learning & Cloud Architect (certified x2)
 
@@ -18,6 +18,5 @@ Currently: Data Scientist in a leading global professional services firm
 
 ## 🔭 I’m currently working on
 
-➼ Computer vision for automotive insurance & some POCs   
-
-
+➼ Computer vision for automotive insurance & exploring proof-of-concepts (POCs).
+➼ Cloud & Data Engineering for a robust SaaS platform, focused on data storage, quality control, and data management.
